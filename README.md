@@ -6,9 +6,8 @@
 🚀 I'm on a journey to become a proficient Data Engineer.
 📊 Currently sharpening my skills in R and SQL.
 🐍 Eagerly looking forward to diving into Python.
-🧠 Brainstorming Ahead:
 
-🌱 I'm in the process of brainstorming innovative project ideas.
+🧠 Brainstorming Ahead: I'm in the process of brainstorming innovative project ideas.
 🎯 Goal: To develop projects that showcase my learning and contribute to the community.
 💡 Looking to Collaborate:
 

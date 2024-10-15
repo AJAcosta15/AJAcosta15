@@ -1,17 +1,16 @@
-👋 Hi there! I'm Aaron Acosta
-🌟 Aspiring Data Engineer | R & SQL Enthusiast | Future Python Programmer
+Hi there! I'm Aaron Acosta
+Aspiring Database Administrator | Python & SQL Enthusiast |
 
-🔭 About Me:
+About Me:
 
-🚀 I'm on a journey to become a proficient Data Engineer.
-📊 Currently sharpening my skills in R and SQL.
-🐍 Eagerly looking forward to diving into Python.
+I'm on a journey to become a proficient Database Administrator.
+📊 Currently sharpening my skills in Python and SQL.
 
 🧠 Brainstorming Ahead: I'm in the process of brainstorming innovative project ideas.
 🎯 Goal: To develop projects that showcase my learning and contribute to the community.
 💡 Looking to Collaborate:
 
-🤝 Open to collaborating on beginner-friendly projects in Data Engineering.
+🤝 Open to collaborating on beginner-friendly projects in Database administrator or Data Engineering.
 🔄 Happy to exchange ideas and learn from fellow coders.
 📫 Let's Connect:
 
